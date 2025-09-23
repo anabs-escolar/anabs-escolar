@@ -1,15 +1,29 @@
-## Olá, sou Ana Barbosa 
+# Olá, sou Ana Barbosa 
 
-Esse perfil é direcionado para minhas práticas e estudos.
+Esse perfil é direcionado para meus estudos. Aqui você vai encontrar atividades, anotações e práticas da minha formação e educação. 
 
+## 🔭 Formação
 
-🌱 Estou aprendendo ...
+- Tecnologia em Análise e Desenvolvimento de Sistemas.
+  - _Abr 2025, Dez 2027_
+  
+- Técnico em Informática para Internet.
+  - _Abr 2020, Dez 2024_
+ 
+
+## 🌱 Aprendendo
+
 - Java
-- Anáise de Dados
+- Análise de Dados
 - Inteligência Artificial
-- Práticas com DjangoRF
+- Práticas com Django REST Framework
 
-### Veja meu perfil profissional [@dvanael](https://github.com/dvanael)
+
+## ✨ Perfil Prossional
+
+Projetos completos feitos durante minha formação estão no meu perfil profissional.
+
+Veja meu perfil profissional [**@dvanael**](https://github.com/dvanael)
 
 <!--
 **anabs-escolar/anabs-escolar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
