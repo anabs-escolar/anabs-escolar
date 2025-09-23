@@ -23,7 +23,26 @@ Esse perfil é direcionado para meus estudos. Aqui você vai encontrar atividade
 
 Projetos completos feitos durante minha formação estão no meu perfil profissional.
 
-Veja meu perfil profissional [**@dvanael**](https://github.com/dvanael)
+Veja meu perfil profissional ✨ 
+
+
+<a href="https://github.com/dvanael">
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <b>dvanael</b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/dvanael.png?size=200">
+      </td>
+    </tr>
+  </tbody>
+</table>
+</a>
+
 
 <!--
 **anabs-escolar/anabs-escolar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
