@@ -36,7 +36,7 @@ Veja meu perfil profissional ✨
     </tr>
     <tr>
       <td>
-        <img src="https://github.com/anabsz?size=200">
+        <img src="https://github.com/anabsz.png">
       </td>
     </tr>
   </tbody>
