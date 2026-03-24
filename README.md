@@ -26,7 +26,7 @@ Projetos completos feitos durante minha formação estão no meu perfil profissi
 Veja meu perfil profissional ✨ 
 
 
-<a href="https://github.com/dvanael">
+<a href="https://github.com/anabsz">
 <table>
   <tbody>
     <tr>
@@ -36,7 +36,7 @@ Veja meu perfil profissional ✨
     </tr>
     <tr>
       <td>
-        <img src="https://github.com/dvanael.png?size=200">
+        <img src="https://github.com/anabsz?size=200">
       </td>
     </tr>
   </tbody>
